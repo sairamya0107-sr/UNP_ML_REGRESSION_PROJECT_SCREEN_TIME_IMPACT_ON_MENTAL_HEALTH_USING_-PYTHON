@@ -52,4 +52,4 @@ The project helped us understand the relationship between screen time and mental
 
 GOOGLE COLAB FILE LINK : https://drive.google.com/file/d/13-g26DAFoan1N2WFwG8ItmMTfNup3bYT/view?usp=sharing
 
-PROJECY PRESENTATION FILE LINK : https://docs.google.com/presentation/d/1mxDuUVu87jZk_-QfuFUeLYuyoI57npAd/edit?usp=sharing&ouid=104732682746738709604&rtpof=true&sd=true
+PROJECT PRESENTATION FILE LINK : https://docs.google.com/presentation/d/1mxDuUVu87jZk_-QfuFUeLYuyoI57npAd/edit?usp=sharing&ouid=104732682746738709604&rtpof=true&sd=true
